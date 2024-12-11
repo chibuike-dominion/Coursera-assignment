@@ -1,2 +1,1 @@
-# Coursera-assignment
-module2folder
+Module2solution
